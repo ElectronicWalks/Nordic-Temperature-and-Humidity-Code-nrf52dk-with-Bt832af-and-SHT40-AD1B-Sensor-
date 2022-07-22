@@ -11,3 +11,14 @@ sOFTWARE NEEDED:
 3. Unzip and Go to path : nRF5_SDK_17.0.2_BLE_template_success_temp_humid\nRF5_SDK_17.0.2_d674dde\examples\ble_peripheral\ble_app_template\pca10040e\s112\ses
 4. Open :- ble_app_template_pca10040e_s112 (using segger and compile)
 
+Detials:
+   . have use Ble custom (https://github.com/maidenone/custom_ble_service_example.git)
+   to add service and characteristics in ble_app_template
+   . After I Uploaded SHT4X Driver file to folders
+   . Done Some Code edit to create Temp UUID & & Humid UUID
+   . Connected the Temp & Humid sensor to scl and sda pin (read sensor datasheet online)
+   
+   
+   
+   *********************** THANK TOU *******************************
+   
