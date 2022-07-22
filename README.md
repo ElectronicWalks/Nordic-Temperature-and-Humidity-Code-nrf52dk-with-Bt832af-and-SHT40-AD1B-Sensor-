@@ -12,7 +12,7 @@ sOFTWARE NEEDED:
 4. Open :- ble_app_template_pca10040e_s112 (using segger and compile)
 
 Detials:
-   . have use Ble custom (https://github.com/maidenone/custom_ble_service_example.git)
+   . I have use Ble custom (https://github.com/maidenone/custom_ble_service_example.git)
    to add service and characteristics in ble_app_template
    . After I Uploaded SHT4X Driver file to folders
    . Done Some Code edit to create Temp UUID & & Humid UUID
