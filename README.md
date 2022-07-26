@@ -2,8 +2,8 @@
 Nordic nRF52 Development Kit – Measuring Temperature and Humidity using Bluetooth Low Energy
 
 SOFTWARE NEEDED:
- Segger embedded studio 5.40b
- SHT40-AD1B-Sensor (temp and humid sensor) Read datasheet online for connection
+ A.) Segger embedded studio 5.40b
+ B.) SHT40-AD1B-Sensor (temp and humid sensor) Read datasheet online for connection
  
 
 1. Go to this link:- https://drive.google.com/drive/folders/1zoDut_T_UO9TXcxyypc-_A5CZhxZC8g8?usp=sharing
